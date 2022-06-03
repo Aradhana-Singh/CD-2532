@@ -1,3 +1,3 @@
 public class first extends second {
-  integer x;
+  integer x = 99;
 }
